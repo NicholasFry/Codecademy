@@ -1,0 +1,1 @@
+Thanks for stopping by. This is my repository of some of work as I learn python through Codecademy.
